@@ -1,6 +1,6 @@
 # QR CODE Generator
 
-Essa é aplicação que gera 
+Essa é aplicação uma que gera um qr code com base no valor do input name. 
 
 # 🔖 Sumário
 
@@ -57,7 +57,7 @@ npm install
 npm run dev
 ```
 
-5. Agora é só entrar no endereço do local host:
+4. Agora é só entrar no endereço do local host:
 
 ```sh
 http://localhost:5173
